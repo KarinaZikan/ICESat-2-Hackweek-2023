@@ -30,6 +30,7 @@ parts:
       sections:
         - file: tutorials/example/tutorial-notebook
         - file: tutorials/applications-snow-depth/applications-tutorial-snow-depth
+        - file: tutorials/sliderule/parquet-s3
 - caption: Projects
   chapters:
     - file: projects/list_of_projects
